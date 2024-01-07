@@ -1,0 +1,9 @@
+name: Tmcds
+version: '${project.version}'
+main: net.pevent.tmcds.Tmcds
+api-version: '1.20'
+commands:
+  tmcd:
+    usage: tmcd
+    permission: op
+    permission-message: このコマンドはopのみ実行できます
