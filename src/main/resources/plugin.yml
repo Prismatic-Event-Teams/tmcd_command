@@ -5,5 +5,5 @@ api-version: '1.20'
 commands:
   tmcd:
     usage: tmcd
-    permission: op
+    permission: tmcd.admin
     permission-message: このコマンドはopのみ実行できます
